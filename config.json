@@ -1,0 +1,15 @@
+{
+    "version": "1.1",
+    "changes": [
+        "[ADD] Membership Level Enable Disable System",
+        "[ADD] Explore Creators Management",
+        "[ADD] Trending Creators",
+        "[ADD] Followers Management",
+        "[ADD] Following Management",
+        "[ADD] Goals Management",
+        "[ADD] Payment System From Wallet",
+        "[ADD] Donation Filter",
+        "[PATCH] Latest System Patch",
+        "[PATCH] Latest Security Patch"
+    ]
+}
